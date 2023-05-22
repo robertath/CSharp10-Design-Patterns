@@ -1,0 +1,2 @@
+﻿# Memento Pattern
+
